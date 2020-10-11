@@ -1,0 +1,9 @@
+This is a report for Capstone Project (week-1) consisting of only data problems/section
+
+DATA PROBLEM/SECTION
+The prediction or the target variable is the "Severity Code" ranging from 1 to 4 which indicates the low to high as defined below:
+1--zero chance, 
+2--low chance,
+3--mild chance
+4--high chance
+The codes also define no injury, low injury, mild injury and high injury respectively.
