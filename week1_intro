@@ -1,0 +1,7 @@
+This is a report for Capstone Project (week-1) consisting of only introduction/business problem
+
+INTRODUCTION/BUSINESS PROBLEM
+
+The severity of the car accident can be estimated using the weather conditions, road conditions and visibility options. This is to lower the chances of accident ration 
+and predict the collision rate. This will eventually reduce the risk or count of car accidents by developing an algorithm based on above criteria. When the above stated
+conditions are BAD the project can predict and eventually alert the driver for lowering the risk of accident.
